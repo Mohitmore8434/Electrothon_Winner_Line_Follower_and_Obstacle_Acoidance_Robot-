@@ -7,6 +7,17 @@ An Arduino Uno R3 robot that follows a black line using two IR sensors and avoid
 > 🏆 **Prize winner at Electrothon**
 
 ---
+## Authors
+**Team MHT**
+
+| Name | College / Branch |
+|------|------------------|
+| Mohit More | E&TC, DYPCOE(TEAM LEADER) |
+| Harshawardhan Talap | E&TC, DYPCOE |
+| Vaibhav Shende | E&TC, DYPCOE |
+
+Built for **Electrothon**, organized by **Enticers** at **D.Y. Patil College of Engineering (DYPCOE)**, where the project won a prize.
+
 
 ## Table of Contents
 1. [Features](#features)
@@ -283,16 +294,3 @@ Each `angle:distance` pair is a point of the wide scan, in degrees and centimetr
 |------|-------------|
 | `robot_uno_r3.ino` | Main Arduino Uno R3 sketch |
 | `README.md` | This documentation |
-
----
-
-## Authors
-**Team MHT**
-
-| Name | College / Branch |
-|------|------------------|
-| Mohit More | E&TC, DYPCOE |
-| Harshawardhan Talap | E&TC, DYPCOE |
-| Vaibhav Shende | E&TC, DYPCOE |
-
-Built for **Electrothon**, organized by **Enticers** at **D.Y. Patil College of Engineering (DYPCOE)**, where the project won a prize.
