@@ -12,7 +12,7 @@ An Arduino Uno R3 robot that follows a black line using two IR sensors and avoid
 
 | Name | College / Branch |
 |------|------------------|
-| Mohit More | E&TC, DYPCOE(TEAM LEADER) |
+| Mohit More | E&TC, DYPCOE (Team Leader) |
 | Harshawardhan Talap | E&TC, DYPCOE |
 | Vaibhav Shende | E&TC, DYPCOE |
 
